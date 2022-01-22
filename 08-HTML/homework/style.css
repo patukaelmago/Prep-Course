@@ -1,0 +1,18 @@
+ h1 {
+     color: purple;
+    }
+image {
+    width: 400;
+}
+#thirdDiv {
+    width: 500;
+    height: 600;
+    background-color: blueviolet;
+    padding: 50px;
+    border: 1px solid black;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+
+}
