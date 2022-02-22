@@ -1,4 +1,4 @@
-![HenryLogo](https://henry-11ty-resources.s3.sa-east-1.amazonaws.com/Assets/logo-henry-white-lg.png)
+![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
@@ -17,7 +17,7 @@
 #### Clases y prototype
 
 <div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/425235994" allow="autoplay; fullscreen"></iframe>
+<iframe src="https://player.vimeo.com/video/425235994?h=c566b7089f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="05 - JS V - Classes"></iframe>
 </div>
 
 ## Clases
